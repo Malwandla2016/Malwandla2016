@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Malwandla Hlungwane(Guthube username=> @Malwandla2016)
-- 💞️ I’m looking to collaborate on AvoByte Project with my team mates for INF 370 (Final Year Project)
+- 👋 Hi, I’m Malwandla Hlungwane (Guthub username=> @Malwandla2016)
+- 💞️ I’m looking to collaborate on AvoByte Project with my teammates for INF 370 (Final Year Project)
 - 📫 How to reach me, click [here](https://www.linkedin.com/in/malwandla-hlungwani-612482207/)
 
 <!---
